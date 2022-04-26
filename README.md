@@ -32,6 +32,9 @@ Descobri outras funçoes do github
 Aprendi a usar o PostgreSQL
 Aprendi como aplicar o Markdown
 
+Participantes do trabalho:
+
+Caua Soares, Daniel Soares e Gustavo Caçador.
 
 
 
